@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Nieto==================================================================================================================================Software Engineer & System Analyst----------------------------------I have been crafting software solutions for more than 8 years.* 🌍  I'm based in El Paso, Texas* ✉️  You can contact me at [jose.nieto11235811321@gmail.com](mailto:jose.nieto11235811321@gmail.com)* 🚀  I'm currently working on [University of Texas at El Paso](http://utep.edu)* 🧠  I'm learning Pytorch* 🤝  I'm open to collaborating on Machine learning projects* ⚡  I craft Discord bots on my free time
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Nieto
+==================================================================================================================================
+
+Software Engineer & System Analyst
+----------------------------------
+
+I have been crafting software solutions for more than 8 years.
+
+*   🌍  I'm based in El Paso, Texas
+*   ✉️  You can contact me at [jose.nieto1123581321@gmail.com](mailto:jose.nieto1123581321@gmail.com)
+*   🚀  I'm currently working on [University of Texas at El Paso](http://utep.edu)
+*   🧠  I'm learning Pytorch
+*   🤝  I'm open to collaborating on Machine learning projects
+*   ⚡  I craft Discord bots on my free time
 
 ### Skills
 
