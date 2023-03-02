@@ -7,7 +7,7 @@ Software Engineer & Systems Analyst
 I have been crafting software solutions for more than 8 years.
 
 *   🌍  I'm based in El Paso, Texas
-*   ✉️  You can contact me at [jose.nieto1123581321@gmail.com](mailto:jose.nieto1123581321@gmail.com)
+*   ✉️  You can contact me at jose.nieto1123581321 (at) gmail.com
 *   🚀  I'm currently working on [University of Texas at El Paso](http://utep.edu)
 *   🧠  I'm learning Pytorch
 *   🤝  I'm open to collaborating on Machine learning projects
