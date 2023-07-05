@@ -8,7 +8,7 @@ I have been crafting software solutions for more than 8 years.
 
 *   🌍  I'm based in El Paso, Texas
 *   ✉️  You can contact me at jose.nieto1123581321 (at) gmail.com
-*   🚀  I'm currently working at the [University of Texas at El Paso](http://utep.edu)
+*   🚀  I currently work on the education sector.
 *   🧠  I'm learning Pytorch
 *   🤝  I'm open to collaborating on Machine learning projects
 *   ⚡  I craft Discord bots on my free time
